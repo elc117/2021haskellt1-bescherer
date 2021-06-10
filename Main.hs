@@ -1,3 +1,5 @@
+-- Brenda Emanuelle Scherer 
+
 import Text.Printf
 
 type Point     = (Float,Float)

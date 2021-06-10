@@ -22,3 +22,13 @@ GERAÇÃO DE ESPIRAL BASEADA NA ESPIRAL EQUIANGULAR
 
      http://gazeta.spm.pt/getArtigo?gid=158
 
+- EXAMPLES
+
+![img](https://i.imgur.com/OUppXBE.png)
+![img](https://i.imgur.com/TV6qrbo.png)
+![img](https://i.imgur.com/SxJHrO8.png)
+![img](https://i.imgur.com/OSMzBLO.png)
+![img](https://i.imgur.com/I9FGRaX.png)
+![img](https://i.imgur.com/7kowdDI.png)
+![img](https://i.imgur.com/AYeu3Bn.png)
+![img](https://i.imgur.com/sVhXp5r.png)
