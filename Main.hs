@@ -47,7 +47,7 @@ calculateSizeShapes sizeShapes width
               | sizeShapes == "s"= width/150
               | sizeShapes == "m" = width/70
               | sizeShapes == "l" = width/20
-              | otherwise = width/70
+              | otherwise = width/150
 --end calculate the size of the shapes
 
 

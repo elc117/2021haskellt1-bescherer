@@ -7,7 +7,7 @@ GERAÇÃO DE ESPIRAL BASEADA NA ESPIRAL EQUIANGULAR
   - Paleta de cores: escala de cores rgb a serem apresentadas na espiral, os valores informados podem ser:
     - grey, green, purple, pink, blue, yellow e red
     - em caso de não informação de uma das cores acima, por definição fica padronizado a escala de cores em cinza (grey)
-  - Tamanho das formas representadas no espiral: podem ser s (small) m (medium) ou l (large), os tamanhos, são baseados na divisão da largura do svg por uma constante escolhida para representar cada uma das opões.
+  - Tamanho das formas representadas no espiral: podem ser s (small) m (medium) ou l (large), os tamanhos, são baseados na divisão da largura do svg por uma constante escolhida para representar cada uma das opões. Por definição, caso o usuário não informe, as fórmulas serão geradas em tamanho pequeno.
   - Escolha do formato utilizado na espiral: a espiral pode ser formada por circulos ou quadrados, por definição, caso o usuário não informe, ou informe uma forma que não esteja nas opções, a espiral será gerada com circulos.
 
 - GERAÇÃO DA ESPIRAL: a geração da espiral é feita com base na fórmula matemática
